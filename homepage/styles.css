@@ -1,0 +1,58 @@
+#ShanghaiYou {
+    width: 900px;
+    margin-top: 62px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    background-color: #556B2F;
+}
+
+#essay {
+    margin-left: 25px;
+    margin-right: 25px;
+    color: #FFF8DC;
+    font-family: Georgia, serif;
+    margin-bottom: 62px;
+}
+
+h1 {
+    color: #D2691E;
+    font-family: Georgia, serif;
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+p {
+    text-indent: 50px;
+}
+
+.card {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Georgia, serif;
+    text-align: left;
+    margin-top: 25px
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.map {
+    margin-top: 40px
+}
+
+#title {
+    text-align: center;
+    margin-top: 25px;
+}
